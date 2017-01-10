@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to Carpathian Place!
 
-You can use the [editor on GitHub](https://github.com/atrailin/Carpathian/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Carpathian Place is a 21 unit apartment building located in Winnipeg's North End. This central location ensures close proximity to all amenities while providing quiet suburb feel to it.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Building features 3 very large 2 bedroom apartments, 21 spacious 1 bedroom unit and 1 studio. This building is solid concrete structure which makes it very quiet. Central heating system with automatic control ensures that all units are warm and comfortable. Heat, water and parking is included in every rent.
 
-### Markdown
+Our property has coin operated laundry on site. Carpathian Place is a family oriented building with many tenants being young families with children. We understand that for many people their pets are part of their family and we welcome tenants with small pets.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We constantly maintain and improve our property to ensure that tenants have high standard of living.
 
-```markdown
-Syntax highlighted code block
+Carpathian Place is meticulously maintained by D7 Property Management. D7 provides very quick response to all tenants requests and needs. 
 
-# Header 1
-## Header 2
-### Header 3
+### Contact
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/atrailin/Carpathian/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+For any enquiries about this bulding please contact D7 at d7admin2@mymts.net or by phone (204) 989-4210
